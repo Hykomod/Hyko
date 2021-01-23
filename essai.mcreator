@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Cookie",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookie"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.essai.cookie": "Cookie"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "essai",
+    "modName": "essai1",
+    "version": "1.0.0",
+    "author": "Utilisateur, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.essai",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
